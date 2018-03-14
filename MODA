@@ -1,0 +1,51 @@
+<div class="inizioImg">
+  <img alt="welcome" sizes="(min-width: 0) and (max-width: 320px) 320px, (<min-></min->width: 321px) and (max-width: 412px) 412px, (min-width: 413px) and (max-width: 640px) 640px,(min-width: 641px) and (max-width: 750px) 750px, (min-width: 751px) and (max-width: 768px) 768px, (min-width: 769px) and (max-width: 824px) 824px, (min-width: 825px) and (max-width: 1024px) 1024px,  (min-width: 1025px) and (max-width: 1536px) 1536px, 2048px"
+      src="https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-2048w.jpg" srcset="https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-320w.jpg 320w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-412w.jpg 412w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-640w.jpg 640w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-750w.jpg 750w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-768w.jpg 768w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-824w.jpg 824w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-1024w.jpg 1024w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-1536w.jpg 1536w, https://media.yoox.biz/ytos/resources/FEDTEST/images/man-yellow-jacket/man-yellow-jacket-2048w.jpg 2048w" style="width:100%;">
+</div>
+  
+<div id="azienda">
+  <p style="width:30%;">
+    <img src="http://www.ynap.com/wp-content/themes/yoox/img/logo-ynap.svg" style="width:100%;">
+  </p>
+  <p style="width:70%;">
+  </p>
+</div>
+<div id="fontDescription">
+  <p>
+    YOOX NET-A-PORTER GROUP is the <b>world&#39;s leading online luxury fashion     retailer</b>. The Group is a Global company with AngloItalian
+    roots, the result of a game-changing merger, which in October 2015         brought together YOOX GROUP and THE NET-APORTER
+    GROUP, two companies that have <b>revolutionized the luxury fashion         industry</b> since their birth in 2000.
+  </p>
+</div>
+
+<div id="fondo">
+  <div id="buttons">
+    <div><button id="1" class="squareBtn" onclick="showText(1)">1</button></div>
+    <div><button id="2" class="squareBtn">2</button></div>
+    <div><button id="3" class="squareBtn">3</button></div>
+    <div><button id="4" class="squareBtn">4</button></div>
+    <div><button id="5" class="squareBtn">5</button></div>
+  </div>
+  <div><p id="newsInformation" class="selectionInformation"></p></div>
+    <div><p id="newsbody"></p></div>
+  </div>
+
+ <div="getToNewsletter">
+    <div id="newsTitle" class="sectionTitle">NEWSLETTER</div>
+    <div id="newsletter">
+      <form action="#newsletter">
+        <table>
+          <tbody>
+            <tr>
+              <td><input type="email" name="email" required="required" placeholder="Nome@sito.com"></td>
+              <td><input class="button" type="submit" value="Subscribe"></td>
+            </tr>
+          </tbody>
+        </table>
+      </form>
+    </div>
+  </div>
+
+
+  <div id="copyright">COPYRIGHY &copy; 2000-2017 YOOX NET-A-PORTER GROUP</div># TAMARIZ_SITE
+MODA SITE
